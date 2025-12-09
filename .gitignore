@@ -1,0 +1,18 @@
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Build folders
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+
+# Artifacts
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Your secrets
+DogFinder/Secrets/Secrets.xcconfig
