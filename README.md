@@ -39,7 +39,6 @@ The project demonstrates modern SwiftUI patterns and MVVM architecture:
 - Uses JSONDecoder with convertFromSnakeCase strategy for parsing API responses
 - Requires API key authentication via x-api-key header
 - Returns array of Dog objects directly from API response
-- @MainActor for thread-safe operations
 
 ### ViewModel
 
